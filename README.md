@@ -1,6 +1,6 @@
-# Next.js TypeScript Hello World（静的ファイルの生成）
+# Next.js TypeScript Hello World 初期設定とベストプラクティス（静的ファイルの生成）
 
-これは、Next.js の基本を学ぶための、シンプルな **Next.js Hello World** プロジェクトです。基本的な Next.js アプリケーションをセットアップし、"Hello World" メッセージを表示する方法と、静的ファイルの生成方法を示します。
+これは、TypeScriptのNext.jsを用いて静的ファイルを生成するプロジェクトの初期設定とベストプラクティスを盛り込んだ構築例です。
 
 ## 目次
 - [必要条件](#必要条件)
@@ -109,7 +109,3 @@ Next.jsの詳細については、以下のリソースをご覧ください：
 - [Next.js Documentation](https://nextjs.org/docs) - Next.js公式ドキュメント
 - [Learn Next.js](https://nextjs.org/learn) - インタラクティブなNext.js学習コース
 
-- ChatGPT
-  https://chatgpt.com/c/66f658dd-7ca8-8007-8d87-5c1cea823366
-- リポジトリ
-  https://github.com/katsuaki-sasaki/helloworld-nextjs-ts-static
